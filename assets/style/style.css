@@ -1,0 +1,27 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&display=swap');
+
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Playfair Display', serif;
+  }
+  /* .animation-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .animation-title{
+    position: relative;
+  }
+  .animation-title h3{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    font-size: 4rem;
+  } */
+
+  .blank{
+    
+  }
